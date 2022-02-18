@@ -1,7 +1,7 @@
 # Employee-performance
 ## Data studio report of the Employee performance
 
-Report Link: https://datastudio.google.com/reporting/6386908b-d3cd-4323-b693-43c19c775aa8
+Report Link: [Employee Performance Report](https://datastudio.google.com/reporting/6386908b-d3cd-4323-b693-43c19c775aa8)
 
 This the Data studio report that shows the sales of "N" employees in the organization.
 *Following are the metrics*
